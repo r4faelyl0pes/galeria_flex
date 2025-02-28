@@ -12,4 +12,4 @@ Minha primeira galeria, criada durante a disciplina de Linguagem de Marcação d
 * Markdown
 
 ## Autor 
-[Rafaely Lopes] (https://www.linkedin.com/in/rafaelylopess)
+[Rafaely Lopes](https://www.linkedin.com/in/rafaelylopess)
